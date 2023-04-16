@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "brocolli",
+    "price": 0.99,
+    "imgUrl": "./imgs/brocolli.png"
+  },
+  {
+    "id": 2,
+    "name": "cabbage",
+    "price": 2.45,
+    "imgUrl": "./imgs/cabbage.png"
+  },
+  {
+    "id": 3,
+    "name": "carrot",
+    "price": 1.05,
+    "imgUrl": "./imgs/carrot.png"
+  },
+  {
+    "id": 4,
+    "name": "chilli",
+    "price": 8.45,
+    "imgUrl": "./imgs/chilli.png"
+  },
+  {
+    "id": 5,
+    "name": "corn",
+    "price": 2.99,
+    "imgUrl": "./imgs/corn.png"
+  },
+  {
+    "id": 6,
+    "name": "cucumber",
+    "price": 2.19,
+    "imgUrl": "./imgs/cucumber.png"
+  },
+  {
+    "id": 7,
+    "name": "potato",
+    "price": 0.95,
+    "imgUrl": "./imgs/potato.png"
+  },
+  {
+    "id": 8,
+    "name": "tomato",
+    "price": 2.59,
+    "imgUrl": "./imgs/tomato.png"
+  }
+]

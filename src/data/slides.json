@@ -1,0 +1,5 @@
+[
+  { "img": "./imgs/home1.jpg", "title": "beach" },
+  { "img": "./imgs/home2.jpg", "title": "boat" },
+  { "img": "./imgs/home3.jpg", "title": "forest" }
+]
